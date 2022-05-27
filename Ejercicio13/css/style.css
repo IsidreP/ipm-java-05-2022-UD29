@@ -1,0 +1,22 @@
+h2 {
+    text-align: center;
+}
+
+td, th {
+    width: 700px;
+}
+
+.red {
+    color: red;
+    text-align: center;
+}
+
+.izq {
+    text-align: left;
+}
+
+.der {
+    text-align: right;
+    vertical-align: bottom;
+}
+

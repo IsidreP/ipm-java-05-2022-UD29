@@ -1,0 +1,80 @@
+/*Primera imagen*/
+
+#fondo1 {
+    width: 220px;
+    height: 100px;
+    border: 5px solid blue;
+    background-color: aqua;
+    position: relative ; left: 0px; top: 0px;
+}
+
+#suelo1 {
+    width: 224px;
+    height: 15px;
+    background-image: url(../img/f01.png);
+    position: relative ; left: 3px; top: -20px;
+}
+
+#nuves1 {
+    position: relative ; left: 4px; top: -171px;
+}
+
+#mario1 {
+    position: relative ; left: -255px; top: -134px;
+}
+
+
+/*Segunda imagen*/
+
+#fondo2 {
+    width: 500px;
+    height: 500px;
+    border: 5px solid red;
+    background-color: aqua;
+    position: relative ; left: 25px; top: -112px;
+}
+
+#suelo2 {
+    width: 502px;
+    height: 15px;
+    background-image: url(../img/f01.png);
+    position: relative ; left: 29px; top: -131px;
+}
+
+#nuves2 {
+    width: 502px;
+    background-image: url(../img/f03.png);
+    position: relative ; left: 41px; top: -623px;
+}
+
+#mario2 {
+    position: relative ; left: 30px; top: -323px;
+}
+
+
+/*Tercera imagen*/
+
+#fondo3 {
+    width: 220px;
+    height: 100px;
+    border: 5px solid blue;
+    background-color: aqua;
+    position: relative ; left: 0px; top: -300px;
+}
+
+#suelo3 {
+    width: 224px;
+    height: 15px;
+    background-image: url(../img/f01.png);
+    position: relative ; left: 3px; top: -319px;
+}
+
+#nuves3 {
+    position: relative ; left: 8px; top: -470px;
+}
+
+#mario3 {
+    position: relative ; left: -260px; top: -433px;
+}
+
+

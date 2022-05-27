@@ -1,0 +1,96 @@
+#fondo {
+    width: 700px;
+}
+
+#modA {
+    width: 150px;
+    height: 150px;
+    background-image: url(../img/back_mantel.jpg);
+    position: relative ; left: 24px; top: -530px;
+}
+
+#modB {
+    width: 100px;
+    height: 100px;
+    background-image: url(../img/back_mantel.jpg);
+    position: relative ; left: 212px; top: -655px;
+}
+
+#modC {
+    width: 150px;
+    position: relative ; left: 351px; top: -780px;
+}
+
+#modDblanco {
+    width: 150px;
+    position: relative ; left: 372px; top: -784px;
+}
+
+#modD {
+    width: 100px;
+    position: relative ; left: 243px; top: -805px;
+}
+
+#modE {
+    width: 150px;
+    position: relative ; left: -389px; top: -600px;
+}
+
+#modFblanco {
+    width: 150px;
+    position: relative ; left: -383px; top: -600px;
+}
+
+#modF {
+    width: 100px;
+    position: relative ; left: -511px; top: -619px;
+}
+
+#modGblanco {
+    width: 150px;
+    position: relative ; left: -473px; top: -600px;
+}
+
+#modG {
+    width: 150px;
+    position: relative ; left: -627px; top: -636px;
+}
+
+#modHblanco {
+    width: 150px;
+    position: relative ; left: -606px; top: -600px;
+}
+
+#modH {
+    height: 140px;
+    position: relative ; left: -722px; top: -600px;
+}
+
+#modI {
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(to right, yellow, green);
+    position: relative ; left: 13px; top: -588px;
+}
+
+#modJ {
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(to bottom, white, red);
+    position: relative ; left: 181px; top: -738px;
+}
+
+#modK {
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(to bottom, white, green);
+    position: relative ; left: 351px; top: -887px;
+}
+
+#modL {
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(to top, rgba(50, 116, 45, 1), transparent);
+    position: relative ; left: 527px; top: -1037px;
+}
+
